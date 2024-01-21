@@ -1,0 +1,38 @@
+.container-fluid{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-link:hover:not(.p){
+    background-color: white;
+    color:black;
+}
+#inps{
+    border: none;
+    outline: none;
+    border-bottom:.1rem solid black;
+    font-family: monospace;
+}
+.card:hover{
+ background-color: rgb(29, 8, 8);
+ cursor: pointer;
+
+}
+ .card{
+    margin-left:1.4rem;
+     font-family: monospace;
+     background-color: black;
+     color: white;
+     float: left;
+     margin-left: 4rem;
+     margin-top:2rem;
+     height: 29rem;
+ }
+ .card-img-top{
+    width: 20rem;
+ }
+ #ab{
+
+ }
